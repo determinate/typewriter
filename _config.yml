@@ -1,7 +1,7 @@
 # Site settings
 title: "Mortal Game"
 description: "So I was feeling nostalgic."
-baseurl: ""
+baseurl: "http://determinate.github.io/typewriter"
 url: "http://determinate.github.io/typewriter"
 
 # Build settings
