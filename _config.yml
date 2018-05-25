@@ -7,7 +7,7 @@ url: "http://determinate.github.io/typewriter"
 # Build settings
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 paginate: 3
 
 # Links
