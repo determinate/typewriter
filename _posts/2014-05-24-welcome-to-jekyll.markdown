@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Начало!"
-date:   2014-05-15 23:52:38
+date:   2014-05-30 23:52:38
 categories: jekyll update
 ---
 
