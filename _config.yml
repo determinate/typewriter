@@ -1,8 +1,8 @@
 # Site settings
 title: "Mortal Game"
 description: "So I was feeling nostalgic."
-baseurl: "http://determinate.github.io/typewriter"
-url: "http://determinate.github.io/typewriter"
+baseurl: "https://determinate.github.io/typewriter"
+url: "https://determinate.github.io/typewriter"
 
 # Build settings
 markdown: kramdown
