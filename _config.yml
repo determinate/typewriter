@@ -2,7 +2,7 @@
 title: "Mortal Game"
 description: "So I was feeling nostalgic."
 baseurl: ""
-url: "http://determinate.github.io/typewriter/"
+url: "http://determinate.github.io/typewriter"
 
 # Build settings
 markdown: kramdown
